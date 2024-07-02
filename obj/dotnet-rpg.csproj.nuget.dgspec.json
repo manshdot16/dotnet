@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dotnet-rpg\\dotnet-rpg.csproj": {}
+    "D:\\Projects\\dotnet\\dotnet-rpg.csproj": {}
   },
   "projects": {
-    "C:\\dotnet-rpg\\dotnet-rpg.csproj": {
+    "D:\\Projects\\dotnet\\dotnet-rpg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dotnet-rpg\\dotnet-rpg.csproj",
+        "projectUniqueName": "D:\\Projects\\dotnet\\dotnet-rpg.csproj",
         "projectName": "dotnet-rpg",
-        "projectPath": "C:\\dotnet-rpg\\dotnet-rpg.csproj",
+        "projectPath": "D:\\Projects\\dotnet\\dotnet-rpg.csproj",
         "packagesPath": "C:\\Users\\mansh\\.nuget\\packages\\",
-        "outputPath": "C:\\dotnet-rpg\\obj\\",
+        "outputPath": "D:\\Projects\\dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mansh\\AppData\\Roaming\\NuGet\\NuGet.Config"
